@@ -1,6 +1,6 @@
 name: "OpenWrt SDK"
 description: "Build OpenWrt packages via the SDK"
-author: aparcar
+author: ees
 runs:
   using: 'composite'
   steps:
